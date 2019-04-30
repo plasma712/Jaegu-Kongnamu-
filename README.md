@@ -1,5 +1,5 @@
 <h1 align="center">재구와 콩나무</h1>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/47206217/56950937-88140280-6b71-11e9-9deb-ea9e0b0cc9e9.png" width="240" /></p>
 ## 프로젝트 참여자
 
 - 기획 : 아트 개발 공동
@@ -15,7 +15,6 @@
 
 ## 인게임 스크린샷
 <div>
-<img width="200" src="https://user-images.githubusercontent.com/47206217/56950937-88140280-6b71-11e9-9deb-ea9e0b0cc9e9.png">
 <img width="200" src="https://user-images.githubusercontent.com/47206217/56950939-88140280-6b71-11e9-8ba7-fe2c845058e1.png">
 <img width="200" src="https://user-images.githubusercontent.com/47206217/56950940-88ac9900-6b71-11e9-8cde-fc6950caf6d5.png">
 <img width="200" src="https://user-images.githubusercontent.com/47206217/56950941-88ac9900-6b71-11e9-8e40-77ef711d1900.png">
