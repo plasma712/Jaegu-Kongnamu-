@@ -23,6 +23,6 @@
 <img width="200" src="https://user-images.githubusercontent.com/47206217/56950944-89452f80-6b71-11e9-8c5e-4f82eea4ffc5.png">
 </div>
 
-## 인게임 동영상
+## 인게임 동영상 주소
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=PLL2lwmpmNY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=PLL2lwmpmNY
