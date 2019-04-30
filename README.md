@@ -1,5 +1,6 @@
 <h1 align="center">재구와 콩나무</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/47206217/56950937-88140280-6b71-11e9-9deb-ea9e0b0cc9e9.png" width="240" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/47206217/56950937-88140280-6b71-11e9-9deb-ea9e0b0cc9e9.png" width="480" /></p>
+
 ## 프로젝트 참여자
 
 - 기획 : 아트 개발 공동
