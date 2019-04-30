@@ -22,5 +22,3 @@
 <img width="200" src="https://user-images.githubusercontent.com/47206217/56950942-88ac9900-6b71-11e9-9e04-bdceb727caa4.png">
 <img width="200" src="https://user-images.githubusercontent.com/47206217/56950944-89452f80-6b71-11e9-8c5e-4f82eea4ffc5.png">
 </div>
-
-## 게임 주요 코드
